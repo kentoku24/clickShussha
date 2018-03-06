@@ -8,7 +8,8 @@
 
   手動で実行する場合は `python main.py` で実行してください。
 
-
+## 設定ファイル
+  credentials.template.yamlをcredentials.yamlとリネームし、desknet'sのログイン情報を書き込んでください。Slackのトークンを入れておくと、#zzz-slack-sandbox に実行結果が書き込まれます。
 
 
 
